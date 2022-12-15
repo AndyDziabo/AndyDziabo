@@ -22,11 +22,11 @@ I recently completed the Software Engineering program at Flatiron School and now
 <br />          
 
 #          
-          
+<!--          
 ### 📈 Stats
 
 ![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andydziabo&show_icons=true&theme=prussian)
-
+-->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=andydziabo&theme=gruvbox&border_radius=4.5) -->
 
 #

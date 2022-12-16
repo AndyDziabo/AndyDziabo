@@ -1,6 +1,6 @@
 # 💻 Andy Dziabo 
 
-**`Full-stack developer`**
+**`Full Stack Software Engineer`**
 
 I recently completed the Software Engineering program at Flatiron School and now I'm continuing my journey to learn and grow in the world of Web development.
 

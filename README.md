@@ -31,8 +31,9 @@ Graduate of the Software Engineering program at Flatiron School and now I'm cont
 
 #
  📫 How to reach me: ...<br />
- <a href="https://www.linkedin.com/in/andrewdziabo/" target="_blank">LinkedIn</a><br />
- <a href="https://dev.to/andydziabo" target="_blank">DEV Community</a><br />
+ <a href="https://andrewdziabo.dev/" target="-blank">Personal Portfolio</a></br>
+ <a href="https://www.linkedin.com/in/andrewdziabo/" target="_blank">LinkedIn</a></br>
+ <a href="https://dev.to/andydziabo" target="_blank">DEV Community</a></br>
 #         
 
 <details>
